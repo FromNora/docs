@@ -8,11 +8,11 @@
   "favicon": "/logo/docs-icon.png",
   "colors": {
     "primary": "#F55A00",
-    "light": "#07C983",
-    "dark": "#0D9373",
+    "light": "#F55A00",
+    "dark": "#F55A00",
     "anchors": {
-      "from": "#0D9373",
-      "to": "#07C983"
+      "from": "#F55A00",
+      "to": "#F55A00"
     }
   },
   "topbarLinks": [
