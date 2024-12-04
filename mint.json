@@ -3,7 +3,7 @@
   "name": "Nora Docs",
   "logo": {
     "dark": "/logo/docs-icon.png",
-    "light": "/logo/light.svg"
+    "light": "/logo/docs-icon.png"
   },
   "favicon": "/logo/docs-icon.png",
   "colors": {
@@ -27,25 +27,20 @@
   },
   "tabs": [
     {
-      "name": "API Reference",
-      "url": "api-reference"
+      "name": "",
+      "url": ""
     }
   ],
   "anchors": [
     {
-      "name": "Documentation",
+      "name": "Website",
       "icon": "book-open-cover",
-      "url": "https://mintlify.com/docs"
-    },
-    {
-      "name": "Community",
-      "icon": "slack",
-      "url": "https://mintlify.com/community"
+      "url": "https://fromnora.com"
     },
     {
       "name": "Blog",
       "icon": "newspaper",
-      "url": "https://mintlify.com/blog"
+      "url": "https://fromnora.com/blog"
     }
   ],
   "navigation": [
@@ -69,23 +64,21 @@
       ]
     },
     {
-      "group": "API Documentation",
+      "group": "",
       "pages": [
-        "api-reference/introduction"
+        ""
       ]
     },
     {
-      "group": "Endpoint Examples",
+      "group": "",
       "pages": [
-        "api-reference/endpoint/get",
-        "api-reference/endpoint/create",
-        "api-reference/endpoint/delete"
+        "",
+        "",
+        ""
       ]
     }
   ],
   "footerSocials": {
-    "x": "https://x.com/mintlify",
-    "github": "https://github.com/mintlify",
-    "linkedin": "https://linkedin.com/company/mintlify"
+    "x": "https://x.com/mailfromnora",
   }
 }
