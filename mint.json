@@ -17,7 +17,7 @@
   },
   "topbarLinks": [
     {
-      "name": "Support",
+      "name": "Email Support",
       "url": "mailto:hello@fromnora.com"
     }
   ],
@@ -33,6 +33,16 @@
   ],
   "anchors": [
     {
+      "name": "Request a Feature",
+      "icon": "lightbulb",
+      "url": "https://fromnora.userjot.com/board/features"
+    },
+    {
+      "name": "Report a Bug",
+      "icon": "bug",
+      "url": "https://fromnora.userjot.com/board/bugs"
+    },
+     {
       "name": "Website",
       "icon": "book-open-cover",
       "url": "https://fromnora.com"
