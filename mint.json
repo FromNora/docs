@@ -59,5 +59,10 @@
   ],
   "footerSocials": {
     "x": "https://x.com/mailfromnora"
-  }
+  },
+  "modeToggle": {
+  "default": "light",
+  "isHidden": true
+}
+
 }
