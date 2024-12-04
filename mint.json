@@ -25,12 +25,6 @@
     "name": "Your Inbox",
     "url": "https://inbox.fromnora.com"
   },
-  "tabs": [
-    {
-      "name": "",
-      "url": ""
-    }
-  ],
   "anchors": [
     {
       "name": "Request a Feature",
