@@ -3,7 +3,7 @@
   "name": "Nora Docs",
   "logo": {
     "dark": "/logo/docs-icon.png",
-    "light": "/logo/docs-icon-wordmark.png"
+    "light": "/logo/docs-icon-wordmark.svg"
   },
   "favicon": "/logo/docs-icon.png",
   "colors": {
