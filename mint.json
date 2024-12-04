@@ -2,10 +2,10 @@
   "$schema": "https://mintlify.com/schema.json",
   "name": "Nora Docs",
   "logo": {
-    "dark": "/logo/dark.svg",
+    "dark": "/logo/docs-icon.png",
     "light": "/logo/light.svg"
   },
-  "favicon": "/favicon.svg",
+  "favicon": "/logo/docs-icon.png",
   "colors": {
     "primary": "#F55A00",
     "light": "#07C983",
