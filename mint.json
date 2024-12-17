@@ -37,6 +37,11 @@
       "url": "https://fromnora.userjot.com/board/bugs"
     },
     {
+      "name": "Check Status",
+      "icon": "heart-pulse",
+      "url": "https://status.fromnora.com"
+    },
+    {
       "name": "Blog",
       "icon": "newspaper",
       "url": "https://fromnora.com/blog"
